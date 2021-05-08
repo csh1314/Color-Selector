@@ -24,6 +24,7 @@ var isDrag = false
 ctx1.rect(0, 0, width1, height1)
 ctx2.rect(0, 0, width2, height2)
 init()
+
 function init(){
     // 初始化选色板
     fill()
